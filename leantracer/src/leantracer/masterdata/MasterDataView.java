@@ -285,7 +285,7 @@ public class MasterDataView {
 		userSelection.addActionListener(actionListenerCB);
 		userSelection.setName("userSelection");
 		
-		taskPreallocationLabel.setText("Standardaufgabe");
+		taskPreallocationLabel.setText("Aufgabenvorbelegung");
 		durationLabel.setText("Zeitdauer");
 		taskPreallocationSelection.setPrototypeDisplayValue("0123456789012345678901234567890123456789012345678901234");
 		durationFTF.setColumns(8);

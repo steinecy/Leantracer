@@ -31,7 +31,7 @@ public class ConnectionMenu {
 		// Create the main window
 		
 		inselGroup = new ImageIcon("inselgruppe.png");		
-		frame = new JFrame("Leantracer Anmeldung");
+		frame = new JFrame("Leantracer Auswahlmenü");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);	
 		frame.setIconImage(inselGroup.getImage());
 	}
